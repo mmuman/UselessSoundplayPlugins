@@ -3,7 +3,7 @@ UselessSoundplayPlugins
 
 Some SoundPlay visualization plugins.
 
-# TitleSpectrumAnalyzer (TFFT) plugin for SoundPlay
+## TitleSpectrumAnalyzer (TFFT) plugin for SoundPlay
 copyright 2003, mmu_man, revol@free.fr
 
 This plugins uses SoundPlay's title tab as an fft display.
@@ -17,18 +17,18 @@ The Downsampling option lowers the number of redraws, which flickers less.
 
 The .dano binary has some strings that only work with Dano-ish font overlay.
 
-# MouseSpectrumAnalyzer
+## MouseSpectrumAnalyzer
 
 An FFT following the mouse as a tooltip.
 
-# MenuBarSpectrumAnalyzer
+## MenuBarSpectrumAnalyzer
 
 Adds a little menu entry SoundPlay's window with an FFT view.
 
-# glSpectrumAnalyzer.GL1
+## glSpectrumAnalyzer.GL1
 
-a 3D spectrum analyser based on NeHe tutorials and the spectrum analyser SoundPlay sample code.
+A 3D spectrum analyser based on NeHe tutorials and the spectrum analyser SoundPlay sample code.
 
-# glSpectrumAnalyzer.GL2
+## glSpectrumAnalyzer.GL2
 
 Same as glSpectrumAnalyzer.GL1 but for the Dano GL Kit.
